@@ -2,7 +2,7 @@
 
 ## How to run:
 Steps to run the program on your local PC.
-1. Clone the Repo using command ```git clone```
+1. Clone the Repo using command ```git clone https://github.com/Vatsal32/posthub.git```
 2. Change directory to the cloned folder by 
    ```cd posthub```
 3. Run ```npm install```
@@ -15,4 +15,4 @@ Alternatively you can also run the program using the Production build
 3. Goto http://localhost:8080 to visit the WebPage
 
 
-Also, you may visit the deployed site at: 
+Also, you may visit the deployed site at: https://posthub-03.herokuapp.com/
